@@ -1,6 +1,6 @@
 # Introduction
 
-This is a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
+This is a code book that provides a clear and comprehensive description of the variables, data and transformations that will be done at the exercise
 
 ## Loading the data
 
